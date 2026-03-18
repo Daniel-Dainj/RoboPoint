@@ -34,3 +34,8 @@ ckpts*
 
 # Demo
 server_logs/
+
+*.lock
+datasets
+*_images
+.gradio
